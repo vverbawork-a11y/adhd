@@ -34,7 +34,7 @@
 | Waveshare 4inch HDMI LCD, семейство | 1 | [Ozon](https://www.ozon.ru/search/?text=Waveshare%204inch%20HDMI%20LCD) | Точную ревизию/матрицу 60 Hz ещё проверить; не утверждён к покупке |
 | Behringer U-CONTROL UCA202 или UCA222 | 1 | [Ozon](https://www.ozon.ru/search/?text=Behringer%20UCA202%20UCA222) | USB RCA line-in; ослабление Eurorack всё равно требуется |
 | Готовый оптоизолированный вход PC817, один канал | 1 | [Ozon](https://www.ozon.ru/search/?text=PC817%20%D0%BE%D0%BF%D1%82%D0%BE%D0%B8%D0%B7%D0%BE%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%201%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB) | Выход 3.3 V, вход 5–12 V и защита отрицательной полярности должны быть проверены |
-| DROK DC/DC 12→5 V 5 A | 1 | [Ozon](https://www.ozon.ru/search/?text=DROK%2012V%205V%205A) | Выбирать по подтверждённому непрерывному току, не надписи |
+| Pololu D24V50F5 5 V / 5 A | 1 | [Ozon](https://www.ozon.ru/search/?text=Pololu%20D24V50F5) | Выбирать по подтверждённому непрерывному току, не надписи |
 | Готовый USB-A зарядный DC/DC 12→5 V с ограничением тока | 1 | [Ozon](https://www.ozon.ru/search/?text=USB%20%D0%B7%D0%B0%D1%80%D1%8F%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%2012V%205V%20%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%82%D0%BE%D0%BA%D0%B0) | Отдельно от USB-портов данных Pi |
 | micro-HDMI → HDMI, Type D → Type A | 2 | [Ozon](https://www.ozon.ru/search/?text=micro%20HDMI%20HDMI%20Raspberry%20Pi%204) | Встроенный экран + внешний панельный выход |
 | Радиатор Raspberry Pi 4 | 1 | [Ozon](https://www.ozon.ru/search/?text=%D1%80%D0%B0%D0%B4%D0%B8%D0%B0%D1%82%D0%BE%D1%80%20Raspberry%20Pi%204) | Вентилятор по результатам температуры |
