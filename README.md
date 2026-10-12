@@ -15,6 +15,7 @@ Zero 2 W и TFT v1 остаются испытательным кандидат�
 - [Описание v1 и план разбора резервной копии](docs/v1-reconstruction.md)
 - [Архитектура и требования v2](docs/v2-design.md)
 - [Предварительная смета](docs/bom.md)
+- [Названия деталей и ссылки в РФ](docs/shopping-links.md)
 - [План сборки для начинающего](docs/assembly-plan.md)
 - [Сохранившиеся скрипты v1](legacy/v1/README.md)
 
